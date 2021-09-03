@@ -9,8 +9,11 @@ body {
 }
 
 a {
+    color: white !important;
+}
+
+.game-section a {
     text-decoration: none;
-    color: white;
 }
 
 .section-div {
@@ -54,10 +57,4 @@ a {
 
 .game-link-button:hover {
     background-color: rgb(75, 75, 75);
-}
-
-#about-div {
-    font-size: 1.5em;
-    text-decoration: underline;
-    font-weight: bold;
 }
