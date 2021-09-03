@@ -29,6 +29,11 @@ a {
     font-weight: bold;
 }
 
+.game-section {
+    max-width: 80%;
+    margin: auto;
+}
+
 .game-section:not(:last-child) {
     border-bottom: 1px solid white;
     margin-bottom: 25px;
